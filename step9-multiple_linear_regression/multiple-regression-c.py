@@ -15,7 +15,8 @@ predictCO2 = regr.predict([[3300, 1300]])
 
 print(predictCO2)
 
-# Coefficient : [0.00755095 0.00780526]
+# Coefficient : [0.00755095 0.00780526] : 
+# The coefficient of multiple Linear regression always have to be two, one for the x-axis and the other for the y-axis
 """
 
      The predicted C02 for weight of 2300kg and volume 1000cm3 = [107.2087328]
