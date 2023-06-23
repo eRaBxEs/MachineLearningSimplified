@@ -1,4 +1,4 @@
-# Now that we can ascertain that our modelk is okay, 
+# Now that we can ascertain that our model is okay, 
 # we have to use our model with the test data set to see if it gives the same result
 import numpy
 from sklearn.metrics import r2_score
